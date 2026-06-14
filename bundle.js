@@ -22637,7 +22637,7 @@
   };
   var REGION = "JAPAN";
   var GAME_TITLE = `MY CLUB ${REGION} LEAGUE`;
-  var SHARE_URL = "https://example.com";
+  var SHARE_URL = "https://kusabihajime.github.io/my-club-japan-league/";
   var SHARE_HASHTAG = "#MYCLUBJAPANLEAGUE";
   var NP_KEY = "jl_name_presets";
   var storageAvailable = typeof window !== "undefined" && !!window.storage;
